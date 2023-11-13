@@ -1,3 +1,5 @@
+
+
 const styles = {
   navStyle: {
     display: 'flex',
@@ -24,7 +26,7 @@ const styles = {
 function Nav() {
   return (
     <div className="nav-bar" style={styles.navStyle}>
-      <div className='logo' style={styles.logo}>
+      <div className='logo' style={styles.logo} to="/">
         <li>LOGO</li>
       </div>
       <div className='navItems' style={styles.navItems}>

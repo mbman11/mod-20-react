@@ -21,7 +21,7 @@ function Project() {
     <h1>About Me</h1>
     <div className="paragraph" style={styles.paragraph}>
     <p>
-    jkashdfjsadkjhkjsdhafkjsahdfkjshgasdknfnbasdkjhgsadjkhgadsjhfhjsadgjdsahgfjkhdsgfjkdsagfjksadhfjksdagfjksdagfjkshgfjkhdsfhgasdfjkgsdakjfgsjfhgsdahfgskajdfgksjadgksjdahkjsagfkjdsajkfgdsakjh</p>
+    jkashdfjsadkjhkjsdhafkjsahdfkjshgasdknfnbasdkjhgsadjkhgadsjhfhjsadgjdsahgfjkhdsgfjkdsagfjksadhfjk</p>
     </div>
 
 

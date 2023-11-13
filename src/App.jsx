@@ -1,4 +1,14 @@
-// import './App.css';
+
+// import PortfolioContainer from "./components/portfolioContainer"
+
+// const App = () => <PortfolioContainer />
+
+// export default App;
+
+
+
+
+import './App.css';
 // import { createElement } from "react";
 import Nav from './components/Navigation';
 import Header from './components/Header';
@@ -12,7 +22,7 @@ function App() {
       <Header />
       <Project />
       <Footer />
-    </div>
+     </div>
   );
 }
 
